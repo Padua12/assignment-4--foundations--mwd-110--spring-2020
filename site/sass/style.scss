@@ -1,0 +1,39 @@
+//$numeralcolor: red;
+//$backcolor: lightblue;
+
+body{
+margin: 60px;
+padding: 80px;
+font-family: 'Arial';
+}
+
+.title{
+	font-family: 'san';
+	font-size: 40px;
+	display: flex;
+	color: blue;
+	justify-content: center;
+	
+}
+#auth{
+	font-family: 'san';
+	font-size: 20px;
+	display: flex;
+	color: blue;
+	justify-content: center;
+	
+}
+
+
+.message{
+	background: lightblue;
+	padding: 20px;
+	
+	#h1, #h2, #h3, #h4, #h5, #h6, #h7, #h8, #h9, #h10 {
+		font-family: 'Dancing Script';
+		color: red;
+		
+	}
+	
+
+}
